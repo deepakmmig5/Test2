@@ -1,0 +1,15 @@
+c:\Code\Learn Dotnet\Test2\Test2.Repository\bin\Debug\net6.0\Test2.Repository.deps.json
+c:\Code\Learn Dotnet\Test2\Test2.Repository\bin\Debug\net6.0\Test2.Repository.dll
+c:\Code\Learn Dotnet\Test2\Test2.Repository\bin\Debug\net6.0\Test2.Repository.pdb
+c:\Code\Learn Dotnet\Test2\Test2.Repository\bin\Debug\net6.0\Test2.Models.dll
+c:\Code\Learn Dotnet\Test2\Test2.Repository\bin\Debug\net6.0\Test2.Models.pdb
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.csproj.AssemblyReference.cache
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.AssemblyInfoInputs.cache
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.AssemblyInfo.cs
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.csproj.CoreCompileInputs.cache
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.csproj.CopyComplete
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.dll
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\refint\Test2.Repository.dll
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\Test2.Repository.pdb
+c:\Code\Learn Dotnet\Test2\Test2.Repository\obj\Debug\net6.0\ref\Test2.Repository.dll

@@ -1,0 +1,12 @@
+c:\Code\Learn Dotnet\Test2\Test2.Models\bin\Debug\net6.0\Test2.Models.deps.json
+c:\Code\Learn Dotnet\Test2\Test2.Models\bin\Debug\net6.0\Test2.Models.dll
+c:\Code\Learn Dotnet\Test2\Test2.Models\bin\Debug\net6.0\Test2.Models.pdb
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\Test2.Models.csproj.AssemblyReference.cache
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\Test2.Models.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\Test2.Models.AssemblyInfoInputs.cache
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\Test2.Models.AssemblyInfo.cs
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\Test2.Models.csproj.CoreCompileInputs.cache
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\Test2.Models.dll
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\refint\Test2.Models.dll
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\Test2.Models.pdb
+c:\Code\Learn Dotnet\Test2\Test2.Models\obj\Debug\net6.0\ref\Test2.Models.dll
